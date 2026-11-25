@@ -1,0 +1,16 @@
+# Python virtual environments
+venv/
+test_env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated packaging metadata
+*.egg-info/
+build/
+
+# Temporary build log
+build-log.txt
